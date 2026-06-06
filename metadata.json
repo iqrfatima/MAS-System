@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Agent Software Team",
+  "description": "A simulation of a real-world software engineering team powered by collaborative AI agents, featuring an orchestrator, shared memory, and real-time activity visualization.",
+  "requestFramePermissions": []
+}
